@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 24.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Camada_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 340.97088 379.14457"
+   xml:space="preserve"
+   sodipodi:docname="logo-perfil-tallos.svg"
+   width="340.97089"
+   height="379.14456"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata17"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs15" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1860"
+   inkscape:window-height="1020"
+   id="namedview13"
+   showgrid="false"
+   inkscape:zoom="1.1212982"
+   inkscape:cx="214.27704"
+   inkscape:cy="184.40818"
+   inkscape:window-x="60"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Camada_1" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#3799CA;}
+</style>
+<path
+   class="st0"
+   d="m 294.25185,100.61608 c -2.80609,-34.81653 -30.35013,-58.261218 -63.72788,-58.494887 -40.46683,-0.233667 -80.93367,-0.311557 -121.4005,0 -36.553072,0.311558 -64.170948,29.675835 -64.392482,67.997387 -0.147689,27.0276 -0.221533,54.05519 0,81.00491 0.295379,40.19089 31.900862,70.17828 69.856982,67.29638 5.16912,-0.38944 11.37207,1.55778 15.65505,4.59547 29.61168,20.56278 59.07567,41.51501 88.24428,62.85669 16.31966,11.91706 33.08238,15.49998 51.1743,5.68592 18.31346,-9.96983 26.36252,-26.94971 26.51021,-48.13561 0.29537,-28.35171 0.6646,-150.40429 -1.91996,-182.80626 z m -25.8456,187.79118 c -0.0738,16.51253 -15.7289,26.87182 -28.7994,18.14821 -32.71314,-21.73112 -64.54017,-45.09792 -96.7364,-67.8416 -20.67649,-10.04773 -32.04856,-10.04773 -51.91275,-12.30652 -12.701269,-7.39948 -19.568816,-18.84922 -19.790349,-33.72608 -0.443068,-28.35172 -0.590757,-56.70343 0,-84.97726 0.443067,-21.185898 15.433518,-37.30899 35.740779,-37.620547 42.16526,-0.623115 84.25667,-0.623115 126.42193,0 19.1996,0.233668 34.63312,15.655755 34.85465,35.361757 0.6646,60.90946 0.59076,121.9747 0.22154,182.96204 z"
+   id="path4"
+   inkscape:connector-curvature="0"
+   style="fill:#3799ca;stroke-width:0.75839996" />
+<path
+   class="st0"
+   d="m 170.48833,185.2039 h 19.34727 c 0,11.21606 -8.71366,20.407 -19.34727,20.407 -10.63363,0 -19.34729,-9.19094 -19.34729,-20.407 0,0 0,-0.0779 0,-0.0779 z"
+   id="path6"
+   inkscape:connector-curvature="0"
+   style="fill:#3799ca;stroke-width:0.75839996" />
+<path
+   class="st0"
+   d="m 126.55079,142.52054 h -19.34728 c 0,-11.21606 8.71366,-20.407 19.34728,-20.407 10.63363,0 19.34729,9.19094 19.34729,20.407 0,0 0,0.0779 0,0.0779 z"
+   id="path8"
+   inkscape:connector-curvature="0"
+   style="fill:#3799ca;stroke-width:0.75839996" />
+<ellipse
+   class="st0"
+   cx="214.79507"
+   cy="132.39491"
+   id="circle10"
+   style="fill:#3799ca;stroke-width:0.75839996"
+   rx="19.347282"
+   ry="20.407005" />
+</svg>
